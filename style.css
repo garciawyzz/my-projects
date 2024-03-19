@@ -1,12 +1,22 @@
 h1{
-    color: white;
-    font-size: xx-large
+    color: #eaeade;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 h2 {
-    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #eaeade;
 }
 
 p {
-    color: white;
+    font: caption;
+    font: bolder;
+    color: #909090;
+}
+
+a{  font: caption;
+    font: bolder;
+    color: #eaeade;
 }
