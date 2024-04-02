@@ -52,7 +52,7 @@ a{
 }
 
 .insta{
-    padding: 30px 0px 0px 1500px;
+    padding: 30px 0px 0px 0px;
     color: #909090;
 }
 
@@ -108,4 +108,18 @@ a{
     font: caption;
     font: bolder;
     padding: -10px 0px 0px 0px;
+}
+.UNSW{
+    color: #eaeade;
+}
+.lista{
+    font: caption;
+    font: bolder;
+    color: #909090;
+    line-height: 35px;
+}
+.legend{
+    color: #eaeade;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
